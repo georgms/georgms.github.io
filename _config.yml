@@ -21,11 +21,12 @@
 title: Georg M. Sorst's homepage
 email: georg.sorst@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Homepage of Georg M. Sorst, software engineer
+  Homepage of Georg M. Sorst, software engineer and engineering manager
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: piefke_schorsch
 github_username:  georgms
+linkedin_username: georg-sorst-010067b3
 
 # Build settings
 theme: minima
